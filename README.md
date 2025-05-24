@@ -5,7 +5,7 @@
 # 🔹 Java Components
 1)  **Java Development Kit (JDK)** – Contains tools needed to develop Java programs.
 
->DOWNLOAD ->  [JDK](https://www.oracle.com/java/technologies/downloads/)
+>DOWNLOAD ->  [JDK](https://www.oracle.com/java/technologies/downloads/#jdk24-windows)
 
 2) **Java Runtime Environment (JRE)** – Provides the libraries and JVM to run Java applications.
 

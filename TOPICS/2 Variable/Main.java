@@ -1,9 +1,25 @@
-class Main {
+public class Main {
 
-    public static void main (String args[]) {
+    // Instance variable
+    String greeting = "Hello";
 
-        int Integar_var = 01;
+    // Static variable
+    static int year = 2025;
 
-        System.out.print(Integar_var);
+    public static void main(String[] args) {
+        // Local variables
+        int age = 20;
+        double height = 5.9;
+        char grade = 'A';
+        boolean isStudent = true;
+        String name = "Alice";
+
+        // Output
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+        System.out.println("Height: " + height);
+        System.out.println("Grade: " + grade);
+        System.out.println("Is Student? " + isStudent);
+        System.out.println("Year: " + year);
     }
 }

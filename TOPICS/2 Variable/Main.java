@@ -1,6 +1,6 @@
 public class Main {
 
-    // Instance variable
+    // Instance variable OR class Variable
     String greeting = "Hello";
 
     // Static variable

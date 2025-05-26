@@ -13,7 +13,7 @@
  ``` 
 
 
-## **Types of Variable**
+## **Types of Variable or Variable Scope**
 1. `local variable` – Declared inside methods.
 2. `Instance variable` – Declared inside a class but outside methods (non-static).
 3. `Static Variables` – Declared with the static keyword in a class 

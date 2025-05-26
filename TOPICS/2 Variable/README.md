@@ -24,6 +24,8 @@
 | `int`           |    Integer          | int x = 10;     |
 | `double`        |    Decimal number   | double pi = 1.5;|
 | `char`          | Single Character    | char c = 'A'    |
+| `boolean`       | True or False       | boolean T = True|
+| `String`        | Sequence of Charectors |String Name = "MR DEJA"|
 
 
 # **🖨️ Output**

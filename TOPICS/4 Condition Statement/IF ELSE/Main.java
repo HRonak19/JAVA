@@ -26,6 +26,6 @@ class Main {
             System.out.print("Invalid !");
         }
 
-    Scan.close();
+    //Scan.close();
     }
 }

@@ -14,8 +14,8 @@ It allows your program to execute certain code only if a condition is true, and 
 
 ```
 if (condition) {
-    // Code runs if condition is true
-} else {
+    // Code runs if condition is true 
+}else {
     // Code runs if condition is false
 }
 ```

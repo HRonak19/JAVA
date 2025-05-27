@@ -26,4 +26,4 @@ public class HelloWorld {
 ![](image/hello.png)
 
 # **OUTPUT**
-![]()
+![](image/output.png)

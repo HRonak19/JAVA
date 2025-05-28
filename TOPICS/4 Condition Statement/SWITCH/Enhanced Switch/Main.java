@@ -11,6 +11,7 @@ class Main {
 
     default -> System.out.println("Default case");
     }
+    }
 
 
 

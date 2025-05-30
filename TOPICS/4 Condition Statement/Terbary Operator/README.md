@@ -7,7 +7,3 @@ The ternary operator is a one-line if-else that returns a value based on a condi
 * `?`: then
 * `:` else
 
-# **🖨️ Output:**
-```
-You are: Adult
-```

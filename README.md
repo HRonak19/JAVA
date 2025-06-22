@@ -23,7 +23,18 @@ public class HelloWorld {
     }
 }
 ```
-![](image/hello.png)
+# 🔧 How to Run:
+1. Save the file as `HelloWorld.java`
+2. Compile the code:
+```
+javac HelloWorld.java
+```
+3. Run the compiled program:
+```
+java HelloWorld
+```
 
-# **OUTPUT**
-![](image/output.png)
+# 🖥️ Output:
+```
+Hello, World!
+```

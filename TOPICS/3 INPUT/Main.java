@@ -1,3 +1,5 @@
+import java.io.*; // to import all pakage 
+
 import java.util.Scanner; // Step 1: Import Scanner class
 
 public class Main {

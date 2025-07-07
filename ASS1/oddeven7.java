@@ -3,7 +3,7 @@
 */
 import java.util.*;
 
-class oddeven {
+class oddeven7 {
 
     public static void main (String[] args) {
 
